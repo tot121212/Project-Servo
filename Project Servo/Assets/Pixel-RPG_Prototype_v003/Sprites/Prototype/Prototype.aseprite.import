@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://dmo34y324duma"
+path="res://.godot/imported/Prototype.aseprite-e99333cb4b6610d64d2e2939d4e66a09.res"
+
+[deps]
+
+source_file="res://Assets/Pixel-RPG_Prototype_v003/Sprites/Prototype/Prototype.aseprite"
+dest_files=["res://.godot/imported/Prototype.aseprite-e99333cb4b6610d64d2e2939d4e66a09.res"]
+
+[params]
+
