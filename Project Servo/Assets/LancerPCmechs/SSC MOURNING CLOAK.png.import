@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doatm8tigq24n"
-path="res://.godot/imported/SSC MOURNING CLOAK.png-3431383767dfb9c4d43f9b06ee559baf.ctex"
+path="res://.godot/imported/SSC MOURNING CLOAK.png-09691e1cfbcdf4e6acc111d1bd7ad46b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/SSC MOURNING CLOAK.png"
-dest_files=["res://.godot/imported/SSC MOURNING CLOAK.png-3431383767dfb9c4d43f9b06ee559baf.ctex"]
+source_file="res://assets/LancerPCmechs/SSC MOURNING CLOAK.png"
+dest_files=["res://.godot/imported/SSC MOURNING CLOAK.png-09691e1cfbcdf4e6acc111d1bd7ad46b.ctex"]
 
 [params]
 

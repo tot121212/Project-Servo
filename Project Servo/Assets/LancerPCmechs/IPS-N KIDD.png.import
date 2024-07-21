@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5ps2sjikd38i"
-path="res://.godot/imported/IPS-N KIDD.png-fd3eaf28735e0f3192dcdc896be44061.ctex"
+path="res://.godot/imported/IPS-N KIDD.png-c30c47933961b9a7c0200ef248c74bba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/IPS-N KIDD.png"
-dest_files=["res://.godot/imported/IPS-N KIDD.png-fd3eaf28735e0f3192dcdc896be44061.ctex"]
+source_file="res://assets/LancerPCmechs/IPS-N KIDD.png"
+dest_files=["res://.godot/imported/IPS-N KIDD.png-c30c47933961b9a7c0200ef248c74bba.ctex"]
 
 [params]
 

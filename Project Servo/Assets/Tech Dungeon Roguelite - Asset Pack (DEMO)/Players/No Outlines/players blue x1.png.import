@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jv7thpkohctk"
-path="res://.godot/imported/players blue x1.png-23836aab9ed0a804732c4fa6b25ec1f7.ctex"
+path="res://.godot/imported/players blue x1.png-0810587acbc29841b4abb7b484d6dcba.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Tech Dungeon Roguelite - Asset Pack (DEMO)/Players/No Outlines/players blue x1.png"
-dest_files=["res://.godot/imported/players blue x1.png-23836aab9ed0a804732c4fa6b25ec1f7.ctex"]
+source_file="res://assets/Tech Dungeon Roguelite - Asset Pack (DEMO)/Players/No Outlines/players blue x1.png"
+dest_files=["res://.godot/imported/players blue x1.png-0810587acbc29841b4abb7b484d6dcba.ctex"]
 
 [params]
 

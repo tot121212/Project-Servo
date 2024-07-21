@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://busi08oymdk26"
-path="res://.godot/imported/HORUS MINOTAUR.png-a149b6dd88f1e6ca0271b5567b7359fb.ctex"
+path="res://.godot/imported/HORUS MINOTAUR.png-fae498431c03f396cb325a7c1159c16e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/HORUS MINOTAUR.png"
-dest_files=["res://.godot/imported/HORUS MINOTAUR.png-a149b6dd88f1e6ca0271b5567b7359fb.ctex"]
+source_file="res://assets/LancerPCmechs/HORUS MINOTAUR.png"
+dest_files=["res://.godot/imported/HORUS MINOTAUR.png-fae498431c03f396cb325a7c1159c16e.ctex"]
 
 [params]
 

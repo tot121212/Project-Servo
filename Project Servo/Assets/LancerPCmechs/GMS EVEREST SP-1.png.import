@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp1ol0rdk10md"
-path="res://.godot/imported/GMS EVEREST SP-1.png-9a4bd91b7aade7e8b08b5fa761bb06f4.ctex"
+path="res://.godot/imported/GMS EVEREST SP-1.png-d8421fa40b4db316482d6cdc6f029022.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/GMS EVEREST SP-1.png"
-dest_files=["res://.godot/imported/GMS EVEREST SP-1.png-9a4bd91b7aade7e8b08b5fa761bb06f4.ctex"]
+source_file="res://assets/LancerPCmechs/GMS EVEREST SP-1.png"
+dest_files=["res://.godot/imported/GMS EVEREST SP-1.png-d8421fa40b4db316482d6cdc6f029022.ctex"]
 
 [params]
 

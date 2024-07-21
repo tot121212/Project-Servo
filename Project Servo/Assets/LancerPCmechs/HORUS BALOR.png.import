@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbjh4plp6s3lr"
-path="res://.godot/imported/HORUS BALOR.png-1b41eee33b61deeab7571387e49c1b24.ctex"
+path="res://.godot/imported/HORUS BALOR.png-409c25092f9300df859eb5688b4ffe98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/HORUS BALOR.png"
-dest_files=["res://.godot/imported/HORUS BALOR.png-1b41eee33b61deeab7571387e49c1b24.ctex"]
+source_file="res://assets/LancerPCmechs/HORUS BALOR.png"
+dest_files=["res://.godot/imported/HORUS BALOR.png-409c25092f9300df859eb5688b4ffe98.ctex"]
 
 [params]
 

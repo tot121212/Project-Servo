@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwp7st3f0fcb6"
-path="res://.godot/imported/IPS-N RALEIGH.png-7e6dd55d3a589ab187bab1214a3afd62.ctex"
+path="res://.godot/imported/IPS-N RALEIGH.png-1801fc6eab2855b72a0c96578f64bb18.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/IPS-N RALEIGH.png"
-dest_files=["res://.godot/imported/IPS-N RALEIGH.png-7e6dd55d3a589ab187bab1214a3afd62.ctex"]
+source_file="res://assets/LancerPCmechs/IPS-N RALEIGH.png"
+dest_files=["res://.godot/imported/IPS-N RALEIGH.png-1801fc6eab2855b72a0c96578f64bb18.ctex"]
 
 [params]
 

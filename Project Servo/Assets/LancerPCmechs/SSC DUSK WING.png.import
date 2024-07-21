@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djhug64pv6bor"
-path="res://.godot/imported/SSC DUSK WING.png-d3782309c7e526413da1cb59c1218ef5.ctex"
+path="res://.godot/imported/SSC DUSK WING.png-67c10acb0c06dd78e34ac1bdb585d0c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/SSC DUSK WING.png"
-dest_files=["res://.godot/imported/SSC DUSK WING.png-d3782309c7e526413da1cb59c1218ef5.ctex"]
+source_file="res://assets/LancerPCmechs/SSC DUSK WING.png"
+dest_files=["res://.godot/imported/SSC DUSK WING.png-67c10acb0c06dd78e34ac1bdb585d0c8.ctex"]
 
 [params]
 

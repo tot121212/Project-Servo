@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bislx8dqindrs"
-path="res://.godot/imported/SSC ATLAS.png-9c70ead4efabfa1160e709da3ffceaf7.ctex"
+path="res://.godot/imported/SSC ATLAS.png-97e79eff043703dfa46d5b0710665993.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/SSC ATLAS.png"
-dest_files=["res://.godot/imported/SSC ATLAS.png-9c70ead4efabfa1160e709da3ffceaf7.ctex"]
+source_file="res://assets/LancerPCmechs/SSC ATLAS.png"
+dest_files=["res://.godot/imported/SSC ATLAS.png-97e79eff043703dfa46d5b0710665993.ctex"]
 
 [params]
 

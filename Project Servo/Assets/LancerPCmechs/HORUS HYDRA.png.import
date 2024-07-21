@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7s85geos6jk7"
-path="res://.godot/imported/HORUS HYDRA.png-5217738a77cd2fbe05d32e57cbc2dd95.ctex"
+path="res://.godot/imported/HORUS HYDRA.png-1a31e78f952fe0643922e5b1f7138283.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/HORUS HYDRA.png"
-dest_files=["res://.godot/imported/HORUS HYDRA.png-5217738a77cd2fbe05d32e57cbc2dd95.ctex"]
+source_file="res://assets/LancerPCmechs/HORUS HYDRA.png"
+dest_files=["res://.godot/imported/HORUS HYDRA.png-1a31e78f952fe0643922e5b1f7138283.ctex"]
 
 [params]
 

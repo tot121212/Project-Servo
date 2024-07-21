@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj083f7svxavr"
-path="res://.godot/imported/GMS SAGARMATHA SP-1.png-a2d091ee3896fa5940e2e6d8d1245c56.ctex"
+path="res://.godot/imported/GMS SAGARMATHA SP-1.png-08991743b090667a42a0dd9a4bc1acf1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/GMS SAGARMATHA SP-1.png"
-dest_files=["res://.godot/imported/GMS SAGARMATHA SP-1.png-a2d091ee3896fa5940e2e6d8d1245c56.ctex"]
+source_file="res://assets/LancerPCmechs/GMS SAGARMATHA SP-1.png"
+dest_files=["res://.godot/imported/GMS SAGARMATHA SP-1.png-08991743b090667a42a0dd9a4bc1acf1.ctex"]
 
 [params]
 

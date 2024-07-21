@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxyx2tgdi24qy"
-path="res://.godot/imported/HA BARBIE'S DREAM HOUSE.png-10ac3967b2929ff621daedd71c6eb8d0.ctex"
+path="res://.godot/imported/HA BARBIE'S DREAM HOUSE.png-9410bd4ac3b671522be8d44809a92ff2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/HA BARBIE'S DREAM HOUSE.png"
-dest_files=["res://.godot/imported/HA BARBIE'S DREAM HOUSE.png-10ac3967b2929ff621daedd71c6eb8d0.ctex"]
+source_file="res://assets/LancerPCmechs/HA BARBIE'S DREAM HOUSE.png"
+dest_files=["res://.godot/imported/HA BARBIE'S DREAM HOUSE.png-9410bd4ac3b671522be8d44809a92ff2.ctex"]
 
 [params]
 

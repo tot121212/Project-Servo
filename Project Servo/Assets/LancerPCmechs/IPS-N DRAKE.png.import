@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bagil50vot8ec"
-path="res://.godot/imported/IPS-N DRAKE.png-b298076c035fe4aa203010e5ae322909.ctex"
+path="res://.godot/imported/IPS-N DRAKE.png-33b4509c9e8240c0fdc1b86eeae14489.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/IPS-N DRAKE.png"
-dest_files=["res://.godot/imported/IPS-N DRAKE.png-b298076c035fe4aa203010e5ae322909.ctex"]
+source_file="res://assets/LancerPCmechs/IPS-N DRAKE.png"
+dest_files=["res://.godot/imported/IPS-N DRAKE.png-33b4509c9e8240c0fdc1b86eeae14489.ctex"]
 
 [params]
 

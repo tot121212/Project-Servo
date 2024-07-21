@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsmcasuo3ytxa"
-path="res://.godot/imported/HORUS GOBLIN.png-c2be43f47cdd8bf6cc1a96f1475e0208.ctex"
+path="res://.godot/imported/HORUS GOBLIN.png-50f279ae6f14038cf9d0f22ed4d1b254.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/HORUS GOBLIN.png"
-dest_files=["res://.godot/imported/HORUS GOBLIN.png-c2be43f47cdd8bf6cc1a96f1475e0208.ctex"]
+source_file="res://assets/LancerPCmechs/HORUS GOBLIN.png"
+dest_files=["res://.godot/imported/HORUS GOBLIN.png-50f279ae6f14038cf9d0f22ed4d1b254.ctex"]
 
 [params]
 

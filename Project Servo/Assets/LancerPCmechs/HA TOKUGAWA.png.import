@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4p4ylg8wir0w"
-path="res://.godot/imported/HA TOKUGAWA.png-a78f33b42cb62263c4c64e7b384fce4c.ctex"
+path="res://.godot/imported/HA TOKUGAWA.png-cb00a4655c8958ad850e09a50d757ab4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/HA TOKUGAWA.png"
-dest_files=["res://.godot/imported/HA TOKUGAWA.png-a78f33b42cb62263c4c64e7b384fce4c.ctex"]
+source_file="res://assets/LancerPCmechs/HA TOKUGAWA.png"
+dest_files=["res://.godot/imported/HA TOKUGAWA.png-cb00a4655c8958ad850e09a50d757ab4.ctex"]
 
 [params]
 

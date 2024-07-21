@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw7wi57xd4q77"
-path="res://.godot/imported/SSC MONARCH.png-ef7e14bcfdc8d494f5dd18e319843e46.ctex"
+path="res://.godot/imported/SSC MONARCH.png-0fdc5fb67722ed71003583d249b9df98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/LancerPCmechs/SSC MONARCH.png"
-dest_files=["res://.godot/imported/SSC MONARCH.png-ef7e14bcfdc8d494f5dd18e319843e46.ctex"]
+source_file="res://assets/LancerPCmechs/SSC MONARCH.png"
+dest_files=["res://.godot/imported/SSC MONARCH.png-0fdc5fb67722ed71003583d249b9df98.ctex"]
 
 [params]
 
